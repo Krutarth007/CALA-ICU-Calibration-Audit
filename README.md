@@ -9,7 +9,7 @@
 [![SHA-256 Provenance](https://img.shields.io/badge/provenance-SHA--256%20hash%20chain-purple.svg)](#hash-chain-verification)
 
 > **Manuscript:** *The Clinical AI Lifecycle Audit (CALA): A Framework for Quantifying Calibration Drift in ICU Mortality Prediction Across Temporal, Multi-Site, and Cross-Continental Settings*
-> Krutarth Patel, MS · Phanindra Beedala, BSc
+> Krutarth Patel, MS · Phanindra Beedala, BSc · Rohan Desai, MS · Harshil Mehta, MBBS
 
 ---
 
