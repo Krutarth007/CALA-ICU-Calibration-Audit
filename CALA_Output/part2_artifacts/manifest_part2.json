@@ -1,0 +1,23 @@
+{
+  "created_utc": "2026-05-23T16:59:09.893184+00:00",
+  "part1_cdm_sha256": "2b3eb15e1669c5508e9eeaff4bb18d95134e6392a47e56285d85979423d3770d",
+  "gbm_sha256": "885cb2f8fb6fcf37a3be7ce83ddd3d518ac414fbb0a5a1ebff1fb93b3b002a74",
+  "dev_train_n": 15344,
+  "dev_val_n": 3288,
+  "dev_test_n": 3288,
+  "t_temporal_n": 18247,
+  "t_site_n": 93187,
+  "t_continental_n": 14688,
+  "baseline_auroc_gbm": 0.8436120272110559,
+  "baseline_auroc_logreg": 0.8167254125599663,
+  "baseline_brier_gbm": 0.07310035315319015,
+  "baseline_brier_logreg": 0.160063503940877,
+  "baseline_ece_gbm": 0.027644820255344454,
+  "gbm_best_params": {
+    "num_leaves": 63,
+    "learning_rate": 0.05,
+    "n_estimators": 400
+  },
+  "feature_window_h": 24.0,
+  "random_state": 42
+}
