@@ -451,7 +451,6 @@ R1RCM, Dallas, TX, USA, ORCID: [0009-0002-6119-9482]
 
 **Harshil Mehta, MBBS**
 Health and Wellness Center, Waghwala, India
-**---
 
 ## License
 
