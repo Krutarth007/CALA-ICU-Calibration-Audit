@@ -1,0 +1,57 @@
+{
+  "part1_complete": {
+    "created_utc": "2026-05-23T16:42:46.146425+00:00",
+    "cdm_rows": 148042,
+    "cdm_columns": 128,
+    "cdm_sha256": "2b3eb15e1669c5508e9eeaff4bb18d95134e6392a47e56285d85979423d3770d",
+    "database_counts": {
+      "eICU-CRD": 93187,
+      "MIMIC-IV": 40167,
+      "SICdb": 14688
+    },
+    "mortality_rates": {
+      "MIMIC-IV": 0.10045559787885577,
+      "SICdb": 0.18518518518518517,
+      "eICU-CRD": 0.09415476407653428
+    },
+    "cdm_variables": [
+      "heart_rate",
+      "sbp",
+      "dbp",
+      "map",
+      "resp_rate",
+      "temperature",
+      "spo2",
+      "wbc",
+      "hemoglobin",
+      "platelets",
+      "sodium",
+      "potassium",
+      "bun",
+      "creatinine",
+      "glucose",
+      "lactate",
+      "ph",
+      "bicarbonate",
+      "bilirubin"
+    ],
+    "aggregations": [
+      "min",
+      "max",
+      "mean",
+      "last",
+      "std",
+      "count"
+    ],
+    "feature_window_h": 24.0,
+    "min_age": 18,
+    "min_los_h": 24.0,
+    "library_versions": {
+      "python": "3.11.5",
+      "numpy": "1.24.4",
+      "pandas": "2.0.3",
+      "scipy": "unknown"
+    },
+    "timestamp": "2026-05-23T16:42:46.304231+00:00"
+  }
+}
