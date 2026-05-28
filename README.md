@@ -419,7 +419,7 @@ If you use this framework, code, or the CALA metrics in your work, please cite:
   title   = {The Clinical {AI} Lifecycle Audit ({CALA}): A Framework for Quantifying
              Calibration Drift in {ICU} Mortality Prediction Across Temporal,
              Multi-Site, and Cross-Continental Settings},
-  author  = {},
+  author  = {Krutarth Patel MS, Phanindra Beedala BSc, Rohan Desai MS, Harshil Mehta MBBS},
   journal = {},
   year    = {2026},
   note    = {}
@@ -446,7 +446,12 @@ Email: krutarthpatel1997@gmail.com
 **Phanindra Beedala, BSc**
 Independent Researcher, Louisville, KY, USA
 
----
+**Rohan Desai, MS** 
+R1RCM, Dallas, TX, USA, ORCID: [0009-0002-6119-9482]
+
+**Harshil Mehta, MBBS**
+Health and Wellness Center, Waghwala, India
+**---
 
 ## License
 
