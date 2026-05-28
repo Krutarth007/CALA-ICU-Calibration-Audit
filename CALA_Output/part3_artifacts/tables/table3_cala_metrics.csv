@@ -1,0 +1,7 @@
+Metric,Value,95% CI,Notes
+CDH-50 (years),stable (>100),"[45.3, 20111.5]","R² = 0.58, slope = -0.0336/yr"
+CDC (continental drift coefficient),11.07,"[7.25, 173.56]",continental ΔECE / max temporal ΔECE
+SDII Stage 2,0.60,—,subgroup range vs Stage 1 baseline
+SDII Stage 3,0.67,—,
+SDII Stage 4,4.24,—,
+Best RHR (GBM Stage 4),0.90,—,best method = isotonic

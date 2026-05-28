@@ -1,0 +1,50 @@
+{
+  "created_utc": "2026-05-23T17:38:19.139660+00:00",
+  "chain": {
+    "part1_cdm_sha256": "2b3eb15e1669c5508e9eeaff4bb18d95134e6392a47e56285d85979423d3770d",
+    "part2_gbm_sha256": "885cb2f8fb6fcf37a3be7ce83ddd3d518ac414fbb0a5a1ebff1fb93b3b002a74",
+    "part3_table2_sha256": "339aa976c0eae582e8d68b3e0ab4be589847a1e43df86501d4a6e7ddf1a14e65",
+    "part3_table3_sha256": "9c02e06c2d2dba9b6e6af636a242ea23a87ade9f5466f2407fa097bc82f583bc"
+  },
+  "baseline_ece_gbm": 0.027644820255344454,
+  "temporal_max_ece_gbm": 0.03570527950637602,
+  "continental_ece_gbm": 0.1168844161217674,
+  "cdh50_years": Infinity,
+  "cdh50_ci": [
+    45.33682822839217,
+    20111.48702142145
+  ],
+  "cdc": 11.07127932629921,
+  "cdc_ci": [
+    7.24964957192692,
+    173.5646504203607
+  ],
+  "sdii_by_stage": {
+    "Stage 1": 1.0,
+    "Stage 2": 0.5954799675847925,
+    "Stage 3": 0.6686547838137918,
+    "Stage 4": 4.23699578852176
+  },
+  "best_rhr_per_stage": {
+    "Stage 2: Temporal": {
+      "method": "beta",
+      "rhr": 0.7112358139056328
+    },
+    "Stage 3: Multi-site": {
+      "method": "beta",
+      "rhr": 0.9481642005737374
+    },
+    "Stage 4: Continental": {
+      "method": "isotonic",
+      "rhr": 0.9008494833179974
+    }
+  },
+  "stage_n": {
+    "stage1_dev_test": 3288,
+    "stage2_t_temporal": 18247,
+    "stage3_t_site": 93187,
+    "stage4_t_continental": 14688
+  },
+  "n_recalibration_methods": 4,
+  "random_state": 42
+}
