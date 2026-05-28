@@ -70,6 +70,20 @@ CALA-ICU-Calibration-Audit/
 │   │   ├── figS1_cdm_variable_availability.png
 │   │   └── figS2_cohort_distributions.png
 │   │
+│   ├── cache/ (Can not share it here as per the Physionet data sharing agreement)
+│   │   ├── cdm_unified.parquet 
+│   │   ├── eicu_cohort.parquet 
+│   │   ├── eicu_features.parquet
+│   │   ├── eicu_labs_long.parquet 
+│   │   ├── eicu_vitals_long.parquet 
+│   │   ├── mimic_cohort.parquet
+│   │   ├── mimic_features.parquet 
+│   │   ├── mimic_labs_long.parquet 
+│   │   ├── mimic_vitals_long.parquet 
+│   │   ├── sicdb_cohort.parquet 
+│   │   ├── sicdb_events_long.parquet
+│   │   ├── sicdb_features.parquet 
+│   │
 │   ├── part1_artifacts/
 │   │   └── manifest.json                  # CDM SHA-256: 2b3eb15e...
 │   │
