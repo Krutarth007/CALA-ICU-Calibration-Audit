@@ -419,7 +419,7 @@ If you use this framework, code, or the CALA metrics in your work, please cite:
   title   = {The Clinical {AI} Lifecycle Audit ({CALA}): A Framework for Quantifying
              Calibration Drift in {ICU} Mortality Prediction Across Temporal,
              Multi-Site, and Cross-Continental Settings},
-  author  = {Patel, Krutarth and Beedala, Phanindra},
+  author  = {},
   journal = {},
   year    = {2026},
   note    = {}
