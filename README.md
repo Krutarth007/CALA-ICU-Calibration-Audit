@@ -1,6 +1,6 @@
 # CALA-ICU-Calibration-Audit
 
-**Clinical AI Lifecycle Audit (CALA): A Four-Metric Framework for Quantifying Calibration Drift in ICU Mortality Prediction Across Temporal, Multi-Site, and Cross-Continental Deployment Settings**
+**Calibration drift in ICU mortality prediction across temporal, multi-site, and cross-continental settings: a reproducible external validation and recalibration audit (CALA)**
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![TRIPOD+AI](https://img.shields.io/badge/reporting-TRIPOD%2BAI-green.svg)](https://www.bmj.com/content/385/bmj-2023-078378)
@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 [![SHA-256 Provenance](https://img.shields.io/badge/provenance-SHA--256%20hash%20chain-purple.svg)](#hash-chain-verification)
 
-> **Manuscript:** *The Clinical AI Lifecycle Audit (CALA): A Framework for Quantifying Calibration Drift in ICU Mortality Prediction Across Temporal, Multi-Site, and Cross-Continental Settings*
+> **Manuscript:** *Calibration drift in ICU mortality prediction across temporal, multi-site, and cross-continental settings: a reproducible external validation and recalibration audit (CALA)*
 > Krutarth Patel, MS · Phanindra Beedala, BSc · Rohan Desai, MS · Harshil Mehta, MBBS
 
 ---
