@@ -1,6 +1,6 @@
 # CALA-ICU-Calibration-Audit
 
-**Calibration Drift and Recalibration Governance for ICU Mortality Models Crossing Jurisdictions: A Reproducible Multi-Database Audit Across Two Continents (CALA)**
+**Governing the cross-jurisdictional reuse of ICU mortality models: a reproducible multi-database audit of calibration drift and recalibration across heterogeneous EHR systems (CALA)**
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![TRIPOD+AI](https://img.shields.io/badge/reporting-TRIPOD%2BAI-green.svg)](https://www.bmj.com/content/385/bmj-2023-078378)
@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 [![SHA-256 Provenance](https://img.shields.io/badge/provenance-SHA--256%20hash%20chain-purple.svg)](#hash-chain-verification)
 
-> **Manuscript:** *Calibration Drift and Recalibration Governance for ICU Mortality Models Crossing Jurisdictions: A Reproducible Multi-Database Audit Across Two Continents (CALA)*
+> **Manuscript:** *Governing the cross-jurisdictional reuse of ICU mortality models: a reproducible multi-database audit of calibration drift and recalibration across heterogeneous EHR systems (CALA)*
 > Krutarth Patel, MS · Phanindra Beedala, BSc · Rohan Desai, MS · Harshil Mehta, MBBS
 
 ---
