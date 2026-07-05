@@ -9,7 +9,7 @@
 [![SHA-256 Provenance](https://img.shields.io/badge/provenance-SHA--256%20hash%20chain-purple.svg)](#hash-chain-verification)
 
 > **Manuscript:** *Governing Imported ICU Mortality Models Across Jurisdictions: A Reproducible Multi-Database Audit of Calibration Drift and Recalibration (CALA)*
-> Krutarth Patel, MS · Phanindra Beedala, BSc · Rohan Desai, MS · Harshil Mehta, MBBS
+> XXX · XXX · XXX · XXX
 
 ---
 
@@ -416,41 +416,24 @@ If you use this framework, code, or the CALA metrics in your work, please cite:
 
 ```bibtex
 @article{patel2026cala,
-  title   = {The Clinical {AI} Lifecycle Audit ({CALA}): A Framework for Quantifying
-             Calibration Drift in {ICU} Mortality Prediction Across Temporal,
-             Multi-Site, and Cross-Continental Settings},
-  author  = {Krutarth Patel MS, Phanindra Beedala BSc, Rohan Desai MS, Harshil Mehta MBBS},
+  title   = {Governing Imported ICU Mortality Models Across Jurisdictions: A Reproducible Multi-Database Audit of Calibration Drift and Recalibration (CALA)},
+  author  = {XXX, XXX, XXX, XXX},
   journal = {},
   year    = {2026},
   note    = {}
 }
 ```
 
----
-
-## Related Preprints
-
-- Patel K, Beedala P. *Calibration drift under cross-institutional deployment: an external validation framework for ICU mortality prediction across MIMIC-IV and eICU.* medRxiv. 2026. https://doi.org/10.64898/2026.05.03.26352335v1
-
-- Patel K, Beedala P. *Unmeasured but not unbiased: the Missingness Demographic Leakage Audit (MDLA) for calibration-aware fairness evaluation in critical care mortality prediction.* medRxiv. 2026. https://doi.org/10.64898/2026.05.01.26352193v1
-
----
 
 ## Authors
 
-**Krutarth Patel, MS**
-Senior Cloud Solutions Engineer, Department of Interoperability, Humana Inc., Louisville, KY, USA
-ORCID: [0009-0002-8748-8098](https://orcid.org/0009-0002-8748-8098)
-Email: krutarthpatel1997@gmail.com
+**XXX**
 
-**Phanindra Beedala, BSc**
-Independent Researcher, Louisville, KY, USA
+**XXX**
 
-**Rohan Desai, MS** 
-R1RCM, Dallas, TX, USA, ORCID: [0009-0002-6119-9482]
+**XXX** 
 
-**Harshil Mehta, MBBS**
-Health and Wellness Center, Waghwala, India
+**XXX**
 
 ## License
 
