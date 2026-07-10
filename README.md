@@ -12,7 +12,6 @@
 > XXX · XXX · XXX · XXX
 
 ---
-
 ## Overview
 CALA: Clinical AI Lifecycle Audit
 
