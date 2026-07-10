@@ -1,6 +1,6 @@
 # CALA-ICU-Calibration-Audit
 
-**Governing Imported ICU Mortality Models Across Jurisdictions: A Reproducible Multi-Database Audit of Calibration Drift and Recalibration (CALA)**
+**Special Topic AI in CDS: A Reproducible Multi-Database Audit of Calibration Drift and Recalibration for Safe Deployment of Imported ICU Mortality Models (CALA)**
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![TRIPOD+AI](https://img.shields.io/badge/reporting-TRIPOD%2BAI-green.svg)](https://www.bmj.com/content/385/bmj-2023-078378)
@@ -8,12 +8,13 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 [![SHA-256 Provenance](https://img.shields.io/badge/provenance-SHA--256%20hash%20chain-purple.svg)](#hash-chain-verification)
 
-> **Manuscript:** *Governing Imported ICU Mortality Models Across Jurisdictions: A Reproducible Multi-Database Audit of Calibration Drift and Recalibration (CALA)*
+> **Manuscript:** *Special Topic AI in CDS: A Reproducible Multi-Database Audit of Calibration Drift and Recalibration for Safe Deployment of Imported ICU Mortality Models (CALA)*
 > XXX · XXX · XXX · XXX
 
 ---
 
 ## Overview
+CALA: Clinical AI Lifecycle Audit
 
 Clinical AI models trained in one institution or country routinely fail silently when deployed elsewhere — not because they stop ranking patients correctly, but because their **probability estimates become wrong**. This repository contains the complete analytical pipeline for CALA, a unified framework that:
 
@@ -416,7 +417,7 @@ If you use this framework, code, or the CALA metrics in your work, please cite:
 
 ```bibtex
 @article{patel2026cala,
-  title   = {Governing Imported ICU Mortality Models Across Jurisdictions: A Reproducible Multi-Database Audit of Calibration Drift and Recalibration (CALA)},
+  title   = {Special Topic AI in CDS: A Reproducible Multi-Database Audit of Calibration Drift and Recalibration for Safe Deployment of Imported ICU Mortality Models (CALA)},
   author  = {XXX, XXX, XXX, XXX},
   journal = {},
   year    = {2026},
