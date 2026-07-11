@@ -1,6 +1,6 @@
 # CALA-ICU-Calibration-Audit
 
-**Special Topic AI in CDS: A Reproducible Multi-Database Audit of Calibration Drift and Recalibration for Safe Deployment of Imported ICU Mortality Models (CALA)**
+**Special Topic AI in CDS: A Multi-Database Calibration and Recalibration Audit for Safe Deployment of Imported ICU Mortality Models (CALA)**
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![TRIPOD+AI](https://img.shields.io/badge/reporting-TRIPOD%2BAI-green.svg)](https://www.bmj.com/content/385/bmj-2023-078378)
@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 [![SHA-256 Provenance](https://img.shields.io/badge/provenance-SHA--256%20hash%20chain-purple.svg)](#hash-chain-verification)
 
-> **Manuscript:** *Special Topic AI in CDS: A Reproducible Multi-Database Audit of Calibration Drift and Recalibration for Safe Deployment of Imported ICU Mortality Models (CALA)*
+> **Manuscript:** *Special Topic AI in CDS: A Multi-Database Calibration and Recalibration Audit for Safe Deployment of Imported ICU Mortality Models (CALA)*
 > XXX · XXX · XXX · XXX
 
 ---
@@ -406,7 +406,7 @@ In accordance with PhysioNet data use agreements:
 
 ## Reporting Standards
 
-This study was conducted in accordance with the **TRIPOD+AI** statement (Collins et al., BMJ 2024), with risk-of-bias considerations informed by **PROBAST-AI** guidance. The IJMEDI machine learning checklist is provided as Supplementary Material S1 in the manuscript.
+This study was conducted in accordance with the **TRIPOD+AI** statement (Collins et al., BMJ 2024), with risk-of-bias considerations informed by **PROBAST-AI** guidance. 
 
 ---
 
@@ -416,7 +416,7 @@ If you use this framework, code, or the CALA metrics in your work, please cite:
 
 ```bibtex
 @article{patel2026cala,
-  title   = {Special Topic AI in CDS: A Reproducible Multi-Database Audit of Calibration Drift and Recalibration for Safe Deployment of Imported ICU Mortality Models (CALA)},
+  title   = {Special Topic AI in CDS: A Multi-Database Calibration and Recalibration Audit for Safe Deployment of Imported ICU Mortality Models (CALA)},
   author  = {XXX, XXX, XXX, XXX},
   journal = {},
   year    = {2026},
