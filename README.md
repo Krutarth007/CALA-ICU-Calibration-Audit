@@ -96,7 +96,7 @@ Access requires completion of the [CITI Data or Specimens Only Research](https:/
 ```
 CALA-ICU-Calibration-Audit/
 │
-├── CALA_Combined_R1b.ipynb                 # Parts 1-3 + Section 3.16 (revision analyses), with outputs
+├── CALA_Combined_R1.ipynb                 # Parts 1-3 + Section 3.16 (revision analyses), with outputs
 │
 ├── CALA_Output/
 │   ├── provenance.json                     # Top-level provenance ledger (CDM hash, counts, versions)
