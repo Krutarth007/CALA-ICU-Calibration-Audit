@@ -1,16 +1,16 @@
 {
-  "created_utc": "2026-05-23T16:42:46.146425+00:00",
-  "cdm_rows": 148042,
-  "cdm_columns": 128,
-  "cdm_sha256": "2b3eb15e1669c5508e9eeaff4bb18d95134e6392a47e56285d85979423d3770d",
+  "created_utc": "2026-10-30T02:57:02.964975+00:00",
+  "cdm_rows": 145656,
+  "cdm_columns": 129,
+  "cdm_sha256": "9f4e362835235be3e9ae728e7f72d94f1023fed017119dadebf17e5f7c888fa4",
   "database_counts": {
     "eICU-CRD": 93187,
     "MIMIC-IV": 40167,
-    "SICdb": 14688
+    "SICdb": 12302
   },
   "mortality_rates": {
     "MIMIC-IV": 0.10045559787885577,
-    "SICdb": 0.18518518518518517,
+    "SICdb": 0.09526906194114779,
     "eICU-CRD": 0.09415476407653428
   },
   "cdm_variables": [
@@ -48,7 +48,7 @@
   "library_versions": {
     "python": "3.11.5",
     "numpy": "1.24.4",
-    "pandas": "2.0.3",
+    "pandas": "2.3.3",
     "scipy": "unknown"
   }
 }
