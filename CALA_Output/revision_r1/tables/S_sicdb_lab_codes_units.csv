@@ -1,0 +1,34 @@
+reference_id,variable,name,unit,factor,conversion
+301,wbc,Leukocyten (ZL),g/L,1.0,unchanged
+288,hemoglobin,Hämoglobin (BG) (ZL),g/dl,1.0,unchanged
+289,hemoglobin,Hämoglobin (ZL),g/dl,1.0,unchanged
+658,hemoglobin,Hämoglobin (BGA),g/dl,1.0,unchanged
+314,platelets,Thrombocyten (ZL),g/L,1.0,unchanged
+315,platelets,Thrombocyten/Citratblut (ZL),g/L,1.0,unchanged
+469,sodium,Natrium (ZL),mmol/L,1.0,unchanged
+455,sodium,Natrium (BG) (ZL),mmol/L,1.0,unchanged
+686,sodium,Natrium (BGA),mmol/L,1.0,unchanged
+463,potassium,Kalium (ZL),mmol/L,1.0,unchanged
+453,potassium,Kalium (BG) (ZL),mmol/L,1.0,unchanged
+685,potassium,Kalium (BGA),mmol/L,1.0,unchanged
+355,bun,Harnstoff (ZL),mg/dl,0.4666791114429718,urea mg/dL -> BUN mg/dL
+367,creatinine,Kreatinin (ZL),mg/dl,1.0,unchanged
+368,creatinine,Kreatinin enzymatisch (ZL),mg/dl,1.0,unchanged
+339,creatinine,Kreatinin(CKR) (ZL),mg/dl,1.0,unchanged
+369,creatinine,Kreatinin (HPM) (ZL),mg/dl,1.0,unchanged
+348,glucose,Glukose (ZL),mg/dl,1.0,unchanged
+656,glucose,Glukose (BGA),mg/dl,1.0,unchanged
+331,glucose,Glucose (BG) (ZL),mg/dl,1.0,unchanged
+465,lactate,Lactat (ZL),mmol/L,1.0,unchanged
+454,lactate,Lactat (BG) (ZL),mmol/L,1.0,unchanged
+657,lactate,Lactat (BGA),mmol/L,1.0,unchanged
+538,ph,pH (ZL),,1.0,unchanged
+688,ph,PH (BGA),,1.0,unchanged
+697,ph,PH (BGA) ven,,1.0,unchanged
+663,ph,PH (T) (BGA),,1.0,unchanged
+698,ph,PH (BGA) kap,,1.0,unchanged
+700,ph,PH (BGA) gemV,,1.0,unchanged
+456,bicarbonate,Bicarbonat (ZL),mmol/L,1.0,unchanged
+451,bicarbonate,Akt. Bicarbonat (ZL),mmol/L,1.0,unchanged
+666,bicarbonate,HCO3 act (BGA),mmol/L,1.0,unchanged
+333,bilirubin,Bilirubin (gesamt) (ZL),mg/dl,1.0,unchanged

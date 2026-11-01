@@ -1,0 +1,12 @@
+variable,source,stays_with_data,pct_of_cohort
+dbp,vitalAperiodic,89439,0.9597797976112548
+dbp,vitalPeriodic,23671,0.254016118128065
+heart_rate,vitalPeriodic,91308,0.9798362432528144
+map,vitalAperiodic,89451,0.9599085709380064
+map,vitalPeriodic,23718,0.2545204803245088
+resp_rate,vitalPeriodic,84387,0.9055662270488372
+sbp,vitalAperiodic,89438,0.9597690665006922
+sbp,vitalPeriodic,23657,0.2538658825801882
+spo2,vitalPeriodic,90503,0.9711976992498954
+temperature,nurseCharting,89476,0.9601768487020722
+temperature,vitalPeriodic,10323,0.1107772543380514

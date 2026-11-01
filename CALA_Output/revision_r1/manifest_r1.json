@@ -1,0 +1,53 @@
+{
+  "created_utc": "2026-10-30T05:42:50.284636+00:00",
+  "part1_cdm_sha256": "9f4e362835235be3e9ae728e7f72d94f1023fed017119dadebf17e5f7c888fa4",
+  "part2_gbm_sha256": "885cb2f8fb6fcf37a3be7ce83ddd3d518ac414fbb0a5a1ebff1fb93b3b002a74",
+  "tables_sha256": {
+    "S_calibration_by_icu_type.csv": "6b7b4b7ee8ab54f4ff22973e9e3d79da3d67b9ea99180af7538f0f4fa9dac98b",
+    "S_casemix_reweighting.csv": "df48a6ca31c25e6c5d1058e06afb0fbfb509eafe456756376615bf1a774c5205",
+    "S_decision_curve.csv": "37fd769641ebc49c74add5dd09e34eb5f755e5749f1987f6d3b90151a0c09499",
+    "S_eicu_raw_counts_before_hourly.csv": "19812f05cbe7b773e41a8766e3ff32a10b03f849f487d2465d8eb2bce207b871",
+    "S_eicu_vital_source_tables.csv": "49a71d14ce3ea293bbe5d93ccd924d9dec4fb878b1ff354fc64d38a940bef5f3",
+    "S_local_audit_controlled_shifts.csv": "86d3fdb95f00d6d5a0b0bd19ec30bd3fb5dc043cd54aaf3f301d86e42436c23f",
+    "S_local_audit_sample_size.csv": "f81bc9dfd3795f10585fb8e392b3b6bcdda188d902dabca384811e295733839a",
+    "S_missingness_profile.csv": "bcc5fe38551a160075be126b8448398e9b1715837032046f1f37e24242ac092f",
+    "S_original_vs_corrected.csv": "7c7e437acecdb2e6399fc8f75c8f73710e92151d6f1249363802abe3404bdfac",
+    "S_per_hospital_ece.csv": "4187c09a58126e34c5ee1a35c0fcf76f2c9b9db4ea7933b2e6b3e718353577a8",
+    "S_per_hospital_summary.csv": "73843b2c0aae75be2b383d3fae78c2fff4672f080cd149eddb3f44a92873e8f4",
+    "S_recalibration_by_subgroup.csv": "3456a33f36efbd44d522b3c855becc7ad8bbb206c49d596b0584d55f3f011bc8",
+    "S_recalibration_fit_size.csv": "f5e07c236858c2a147d9fa45bdef47235015a922359d6591edbf0b46a21ff438",
+    "S_recalibration_LR_unweighted.csv": "458d684cdb387a115068a69a16299322e346472b1bd7969508a2d4aba838c8a9",
+    "S_recalibration_LR_weighted.csv": "538ce4c48bebeb58d895c17515b2ea5748bb543d1edc82ce272ab1e511ab3b46",
+    "S_reference_model_regularised.csv": "acc7de9edc731c852931f733e4bd1e373bd5b617d664f7dc4daa3a96a2e45422",
+    "S_rhr_patient_bootstrap.csv": "05e13c303bc03545f60902ee5ccd5a26d2eabbae10a7316caa31327ff85465fd",
+    "S_sensitivity_models.csv": "912bf285ea78dff01d8f085136f71536a3b776f165f6a452790f66544eb60840",
+    "S_sicdb_lab_codes_units.csv": "b57feb922ae669663c9b815fbe1bde6311da44e7cdd3d94490489693587cd2c7",
+    "S_sicdb_outcome_rules.csv": "ccb5bf011f97d6a56ff75aa04d9b11d41e1ac83e1fa5faaa174404ff5e138fb1",
+    "S_threshold_analysis.csv": "ec28863852fd6a3d0ed345f8cc0aeadc8ce8f09affa57262777a00b6e402ca09",
+    "S_unit_qc_by_database.csv": "1fd79a5331116b98b029517103c85b6df135d3f3e574ab9cd06ad21a764cc780",
+    "T1_outcomes_by_database.csv": "a601316538e2d07c3ea5ad0d3c92fd869070909011069297773da645e8f0f9a0",
+    "T2_stage_metrics_GBM.csv": "08c45d275b3c0b9fa4e402a284b01ed20885bc1ffc219d6a408a3df4f0dbd809",
+    "T2_stage_metrics_LR_unweighted.csv": "979b46df51313c5f2ea0da42a6e5b2e37a02913280e19609c20a1e1ee042cfb2",
+    "T2_stage_metrics_LR_weighted.csv": "83df22755d977e1c7aba4099cbc4eef54bddd89a15f8dd8fae3545d9dfb96910",
+    "T3_mdl_auroc_permutation.csv": "e7021c21a823af86b5a8fd709dc7729918a5c7eca74e1027310261062374062a",
+    "T4_cdc_sensitivity.csv": "8e906a6ea013cc5931e5caf4c575d37cf60317185010f0b7ab967e3e3c91468d",
+    "T4_delta_vs_stage1.csv": "1339ce1ba1253dc8a817b37bd8f69f00e29cc6ffecf9f063fa53cc9bf31f2f97",
+    "T4_sdii_bootstrap.csv": "56936fa479d9c76966749f639e004143f0a6e4411febc9aad54a7b34e186b9d3",
+    "T4_temporal_bins.csv": "6c28c88fcf94e2d1601c5ab2227e6cbdfdf7bcd84faf3d757596d6218d8ef9bb",
+    "T5_subgroup_delta_bootstrap.csv": "5144b0cf53062602b830503cfb9a4bb9c940384eb18c2bcbc85a1030d5f18c1b",
+    "T5_subgroup_metrics.csv": "a91accd5548623a5feed8a93e47e2c0a607ca725fc90a3597b10655755825e76",
+    "T6_recalibration_repeated_splits.csv": "a82288f9f346bd6ce5b016665377e6d612613a09323dbb88b86b7c4f912ccdee"
+  },
+  "settings": {
+    "N_BOOTSTRAP": 500,
+    "N_REP": 200,
+    "N_NULL": 500
+  },
+  "versions": {
+    "python": "3.11.5",
+    "numpy": "1.24.4",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.3.0",
+    "lightgbm": "4.6.0"
+  }
+}
