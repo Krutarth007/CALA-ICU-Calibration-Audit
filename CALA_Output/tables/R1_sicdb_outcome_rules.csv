@@ -1,0 +1,6 @@
+rule,full_db_rate,n_deaths,icu_deaths_not_captured,abs_diff_from_published,selected
+discharge_day,0.07861060329067641,2150,2,0.00038939670932358617,True
+stay_days,0.08321755027422303,2276,11,0.004217550274223034,False
+discharge_state,0.04113345521023766,1125,0,0.03786654478976234,False
+icu_death_only (lower bound),0.03689213893967093,1009,0,0.04210786106032907,False
+"any_recorded_death (ORIGINAL, one-year)",0.1860329067641682,5088,0,0.1070329067641682,False
