@@ -1,0 +1,47 @@
+{
+  "created_utc": "2026-10-30T05:43:12.745759+00:00",
+  "chain": {
+    "part1_cdm_sha256": "9f4e362835235be3e9ae728e7f72d94f1023fed017119dadebf17e5f7c888fa4",
+    "part2_gbm_sha256": "885cb2f8fb6fcf37a3be7ce83ddd3d518ac414fbb0a5a1ebff1fb93b3b002a74",
+    "part3_table2_sha256": "a7836aab715891b9aa7884dba572ad9fc303fde823c69d18c6201d9a6d2deead",
+    "part3_table3_sha256": "596197b3c944c0845a2b22b48c2db103eb0e8eeb700582e777705f65f83fe9a5"
+  },
+  "baseline_ece_gbm": 0.027644820255344454,
+  "temporal_max_ece_gbm": 0.03570527950637602,
+  "continental_ece_gbm": 0.043135422205960075,
+  "cdh50_years": "stable (>100 years)",
+  "cdh50_ci": "stable (>100 years)",
+  "cdc": 1.921801409595013,
+  "cdc_ci": [
+    0.5947198952844078,
+    3.0871450544314865
+  ],
+  "sdii_by_stage": {
+    "Stage 1": 1.0,
+    "Stage 2": 0.5954799675847925,
+    "Stage 3": 0.8324069837755277,
+    "Stage 4": 1.3537467973117778
+  },
+  "best_rhr_per_stage": {
+    "Stage 2: Temporal": {
+      "method": "beta",
+      "rhr": 0.7112358139056328
+    },
+    "Stage 3: Multi-site": {
+      "method": "beta",
+      "rhr": 0.9145296129737098
+    },
+    "Stage 4: Continental": {
+      "method": "isotonic",
+      "rhr": 0.7607702635222039
+    }
+  },
+  "stage_n": {
+    "stage1_dev_test": 3288,
+    "stage2_t_temporal": 18247,
+    "stage3_t_site": 93187,
+    "stage4_t_continental": 12302
+  },
+  "n_recalibration_methods": 4,
+  "random_state": 42
+}
