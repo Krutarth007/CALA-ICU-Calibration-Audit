@@ -1,0 +1,9 @@
+stage,model,auroc,discrimination_lost,recal_interpretation
+Stage 1: Dev-test,LogReg,0.8167254125599663,False,VALID: recalibration acts on retained ranking
+Stage 1: Dev-test,GBM,0.8436120272110559,False,VALID: recalibration acts on retained ranking
+Stage 2: Temporal,LogReg,0.8524344854426408,False,VALID: recalibration acts on retained ranking
+Stage 2: Temporal,GBM,0.8617015526829503,False,VALID: recalibration acts on retained ranking
+Stage 3: Multi-site,LogReg,0.7276136691691242,False,VALID: recalibration acts on retained ranking
+Stage 3: Multi-site,GBM,0.801880651916802,False,VALID: recalibration acts on retained ranking
+Stage 4: Continental,LogReg,0.7524311656532018,False,VALID: recalibration acts on retained ranking
+Stage 4: Continental,GBM,0.7960570698754098,False,VALID: recalibration acts on retained ranking
